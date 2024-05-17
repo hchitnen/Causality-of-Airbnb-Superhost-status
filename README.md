@@ -27,7 +27,9 @@ Below is the creteria used for selecting the just miss and juss pass groups of p
 
 <img width="452" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/c4c2f167-6dab-4557-ab19-133d789de4c8">
 
+
 After extracting the required set of data, we have determined the treatment and control group for analysis. 
+
 
 Control Group: Properties that just Miss superhost status in period 11
 Treatment Group: Properties that just Pass superhost status in period 11
@@ -42,17 +44,17 @@ From the initial analysis, we have observed that occupancy rates of treatment gr
  <img width="452" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/f5d822aa-b064-4707-a222-d1672a697c4e">
 
 
-** But how much of this increase is caused by ‘Superhost’ status?**
+**But how much of this increase is caused by ‘Superhost’ status?**
 
 So, to further determine the effect of superhost status, we would be performing the following regression analysis:
 
 <img width="452" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/1f99c60a-2ffe-4953-b2db-8cff03b8d54e">
 
-Linear Regression Equation with Interaction term:
+**Linear Regression Equation with Interaction term:**
 
 <img width="498" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/04d7932a-ddb6-450c-a549-7b14b2106672">
 
-Superhost Effect:
+**Superhost Effect:**
 
 <img width="421" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/fd90a3c6-da5d-454f-8e60-db0e67d96351">
 
