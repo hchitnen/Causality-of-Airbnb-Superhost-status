@@ -44,9 +44,12 @@ So, to further determine the effect of superhost status, we would be performing 
 
 <img width="452" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/1f99c60a-2ffe-4953-b2db-8cff03b8d54e">
 
+
 <img width="498" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/04d7932a-ddb6-450c-a549-7b14b2106672">
 
+
 <img width="421" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/fd90a3c6-da5d-454f-8e60-db0e67d96351">
+
 
 <img width="220" alt="image" src="https://github.com/hchitnen/Causality-of-Airbnb-Superhost-status/assets/148294077/4935fd6f-b448-4ce1-ae60-ecf6b1acdbb9">
 
